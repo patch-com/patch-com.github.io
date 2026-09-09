@@ -17,8 +17,8 @@ import { defineForumConfig } from './src/lib/config/schema';
  */
 export default defineForumConfig({
 	site: {
-		name: 'Discussion Kit',
-		description: 'A community forum powered by GitHub Discussions',
+		name: 'Patchwork Forums',
+		description: 'A community forum for Patchwork powered by GitHub Discussions',
 		// logo: '💬',                        // emoji shown instead of the default icon
 		footer: 'Powered by GitHub Discussions'
 	},
@@ -44,13 +44,13 @@ export default defineForumConfig({
 	},
 
 	admins: {
-		logins: ['NotReeceHarris'], // GitHub logins that get the admin badge
+		logins: ['patch-com'], // GitHub logins that get the admin badge
 		badgeLabel: 'Admin'  // label shown next to admin usernames
 	},
 
 	// Custom badges shown next to usernames: label → GitHub logins
 	badges: {
-		'Moderator': ['NotDevenBriers'],
+		'Moderator': [''],
 		// 'Contributor': ['someuser', 'anotheruser']
 	},
 

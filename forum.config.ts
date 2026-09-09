@@ -38,8 +38,8 @@ export default defineForumConfig({
 		allowToken: true,
 		oauth: {
 			// Fill both to enable the "Continue with GitHub" button (see README):
-			clientId: 'Ov23li1QctsLGHqbcIwq',
-			proxyUrl: 'https://discussion-kit-oauth.reeceharris.workers.dev'
+			clientId: 'Ov23liJ0jnfnjBfcRrGo',
+			proxyUrl: 'https://patch-com-github-io.thesecretdiscord62.workers.dev'
 		}
 	},
 

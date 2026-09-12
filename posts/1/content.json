@@ -1,0 +1,92 @@
+{
+	"id": "D_kwDOUTrfls4ApIcL",
+	"number": 1,
+	"title": "Welcome to patch-com.github.io Discussions!",
+	"body": "<!--\r\n    ✏️ Optional: Customize the content below to let your community know what you intend to use Discussions for.\r\n-->\r\n## 👋 Welcome!\r\n  We’re using Discussions as a place to connect with other members of our community. We hope that you:\r\n  * Ask questions you’re wondering about.\r\n  * Share ideas.\r\n  * Engage with other community members.\r\n  * Welcome others and are open-minded. Remember that this is a community we\r\n  build together 💪.\r\n\r\n  To get started, comment below with an introduction of yourself and tell us about what you do with this community.\r\n\r\n<!--\r\n  For the maintainers, here are some tips 💡 for getting started with Discussions. We'll leave these in Markdown comments for now, but feel free to take out the comments for all maintainers to see.\r\n\r\n  📢 **Announce to your community** that Discussions is available! Go ahead and send that tweet, post, or link it from the website to drive traffic here.\r\n\r\n  🔗 If you use issue templates, **link any relevant issue templates** such as questions and community conversations to Discussions. Declutter your issues by driving community content to where they belong in Discussions. If you need help, here's a [link to the documentation](https://docs.github.com/github/building-a-strong-community/configuring-issue-templates-for-your-repository#configuring-the-template-chooser).\r\n\r\n  ➡️ You can **convert issues to discussions** either individually or bulk by labels. Looking at you, issues labeled “question” or “discussion”.\r\n-->\r\n",
+	"bodyHTML": "\n<h2 dir=\"auto\">👋 Welcome!</h2>\n<p dir=\"auto\">We’re using Discussions as a place to connect with other members of our community. We hope that you:</p>\n<ul dir=\"auto\">\n<li>Ask questions you’re wondering about.</li>\n<li>Share ideas.</li>\n<li>Engage with other community members.</li>\n<li>Welcome others and are open-minded. Remember that this is a community we<br>\nbuild together 💪.</li>\n</ul>\n<p dir=\"auto\">To get started, comment below with an introduction of yourself and tell us about what you do with this community.</p>\n",
+	"url": "https://github.com/patch-com/patch-com.github.io/discussions/1",
+	"createdAt": "2026-09-09T14:48:33Z",
+	"lastEditedAt": null,
+	"upvoteCount": 1,
+	"viewerHasUpvoted": false,
+	"locked": false,
+	"author": {
+		"login": "patch-com",
+		"avatarUrl": "https://avatars.githubusercontent.com/u/316691736?u=7deff9d78fcf1a316f6e07067b844e4a7a05e764&v=4",
+		"url": "https://github.com/patch-com"
+	},
+	"category": {
+		"id": "DIC_kwDOUTrfls4DFO9_",
+		"name": "General",
+		"slug": "general",
+		"emojiHTML": "<div>💬</div>",
+		"description": "Chat about anything and everything here",
+		"isAnswerable": false
+	},
+	"reactionGroups": [
+		{
+			"content": "THUMBS_UP",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 0
+			}
+		},
+		{
+			"content": "THUMBS_DOWN",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 0
+			}
+		},
+		{
+			"content": "LAUGH",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 0
+			}
+		},
+		{
+			"content": "HOORAY",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 0
+			}
+		},
+		{
+			"content": "CONFUSED",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 0
+			}
+		},
+		{
+			"content": "HEART",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 0
+			}
+		},
+		{
+			"content": "ROCKET",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 0
+			}
+		},
+		{
+			"content": "EYES",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 0
+			}
+		}
+	],
+	"comments": {
+		"totalCount": 0,
+		"pageInfo": {
+			"endCursor": null,
+			"hasNextPage": false
+		},
+		"nodes": []
+	}
+}
